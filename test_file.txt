@@ -6,3 +6,7 @@ And here goes another change to computer file. Change #5 total.
 Change 7. Okay, so change 6a got dowloaded onto my computer after typing "git
 pull origin master". Maybe "git pull" does not give it enough info on where
 to pull it from.
+
+Final change 9. Okay, so you have to "git pull" from where? "origin", from
+what branch of origin? "master". I.e. "git pull origin master".
+Let's see what happens if I try this on a brand new repo.
