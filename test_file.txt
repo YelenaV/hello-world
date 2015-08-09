@@ -1,3 +1,8 @@
 Now let's try to change this computer file.
 
 And here goes another change to computer file. Change #5 total.
+
+
+Change 7. Okay, so change 6a got dowloaded onto my computer after typing "git
+pull origin master". Maybe "git pull" does not give it enough info on where
+to pull it from.
